@@ -67,3 +67,8 @@ git diff id1 id2l
 git reset
 ```
 
+* fatal: Unable to create '/home/devstack/Desktop/learn_node/node101/.git/index.lock': File exists.
+```
+sudo rm -f ./.git/index.lock
+```
+
