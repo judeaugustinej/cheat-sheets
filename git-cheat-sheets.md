@@ -62,4 +62,8 @@ git diff id1 id2l
 * Git branches
 ```
 ```
+* Removing files from staging area
+```
+git reset
+```
 
