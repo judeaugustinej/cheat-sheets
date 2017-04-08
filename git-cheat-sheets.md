@@ -67,8 +67,19 @@ git diff id1 id2l
 git reset
 ```
 
+* Remove a single file from staging are
+```
+git reset <file-name>
+```
+
 * fatal: Unable to create '/home/devstack/Desktop/learn_node/node101/.git/index.lock': File exists.
 ```
 sudo rm -f ./.git/index.lock
+
+
+* Rules for git commit-message
+1. Heading in less than 50characters
+2. A blank line
+3. Why, what and how
 ```
 
