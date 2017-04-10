@@ -18,6 +18,11 @@ git add <file-one>
 git add <file-two>
 ```
 
+* adding file from a particular folder to staging area
+```
+git add --add snippet/
+```
+
 * commiting
 ```
 git commit -m 'commit message'
