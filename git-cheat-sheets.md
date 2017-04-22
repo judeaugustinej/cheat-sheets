@@ -88,3 +88,17 @@ sudo rm -f ./.git/index.lock
 3. Why, what and how
 ```
 
+* Pushing code to a remote repo and verify the repo
+```
+git remote add origin https://github.com/judeaugustinej/ci_cd_django.git
+git remote -v
+```
+
+* Adding ssh keys
+```
+```
+
+* Removing sensitive data from repo
+```
+https://help.github.com/articles/removing-sensitive-data-from-a-repository/
+```
