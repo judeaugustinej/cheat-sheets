@@ -58,6 +58,10 @@ git diff id1 id2l
 
 * Editing commit message
 ```
+# For last commit
+git commit --amend <enter>
+
+# For any commit
 ```
 
 * Git tags
