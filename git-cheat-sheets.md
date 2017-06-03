@@ -112,3 +112,8 @@ https://help.github.com/articles/removing-sensitive-data-from-a-repository/
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
 https://help.github.com/articles/syncing-a-fork/
 ```
+* References
+```
+1. https://www.atlassian.com/git/tutorials
+2. http://www.vogella.com/tutorials/Git/article.html
+```
