@@ -25,3 +25,11 @@ psql
 * Docker and postgres
 ```
 ```
+* ER-Diagram
+```
+```
+
+* References
+```
+1. http://www.postgresqltutorial.com/
+```
