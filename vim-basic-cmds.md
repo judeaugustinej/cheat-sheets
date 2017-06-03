@@ -38,6 +38,11 @@ p
 Ctrl + n
 ```
 
+* Navigation
+```
+hjkl
+```
+
 * Find 
 ```
 /countline
