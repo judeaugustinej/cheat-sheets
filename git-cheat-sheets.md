@@ -112,6 +112,15 @@ https://help.github.com/articles/removing-sensitive-data-from-a-repository/
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
 https://help.github.com/articles/syncing-a-fork/
 ```
+
+* Git workflows
+
+```
+https://www.atlassian.com/blog/git/simple-git-workflow-simple
+https://www.atlassian.com/git/tutorials/comparing-workflows
+https://sandofsky.com/blog/git-workflow.html
+```
+
 * References
 ```
 1. https://www.atlassian.com/git/tutorials
